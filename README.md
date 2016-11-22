@@ -3,12 +3,17 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 
 ##Discussion
+* [AI Ethics on Reddit](https://www.reddit.com/r/AIethics/)
 * [(HN)Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
 * [(HN)Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
 
 ##Podcast
 
 * [EconTalk Episode with Cathy O'Neil](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html)
+
+##Videos
+
+* [Ethics of Artificial Intelligence conference NYU 2016](https://livestream.com/nyu-tv/ethicsofAI/)
 
 ##Papers 
 
