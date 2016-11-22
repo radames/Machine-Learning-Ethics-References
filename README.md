@@ -29,6 +29,7 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * [Are Machines Biased, or Are We Biased Against Machines?](http://alex.miller.im/posts/are-we-biased-against-machines-propublica-recidivism/)
 * [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
+* [Buyer Beware: A hard look at police ‘threat scores.’](https://www.equalfuture.us/2016/01/14/buyer-beware-police-threat-scores/)
 
 ##Others
 
