@@ -13,14 +13,18 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 ##Papers 
 
 * [Bias in Computer Systems](https://www.nyu.edu/projects/nissenbaum/papers/biasincomputers.pdf)
+* [Equality of Opportunity in Supervised Learning](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+* [Using sensitive personal data may be necessary
+for avoiding discrimination in data-driven decision
+models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.pdf?attredirects=1)
 
 ##Books
 
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=sr_1_1?ie=UTF8&qid=1479818920&sr=8-1&keywords=Weapons-Math-Destruction-Increases-Inequality)
 
 ##Articles
-
+* [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 * [The Ethical Data Scientis](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html)
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * [Are Machines Biased, or Are We Biased Against Machines?](http://alex.miller.im/posts/are-we-biased-against-machines-propublica-recidivism/)
-
+* [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
