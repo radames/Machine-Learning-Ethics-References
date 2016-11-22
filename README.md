@@ -17,6 +17,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Using sensitive personal data may be necessary
 for avoiding discrimination in data-driven decision
 models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.pdf?attredirects=1)
+* [The Ethics of Artificial Intelligence](http://www.nickbostrom.com/ethics/artificial-intelligence.pdf)
 
 ##Books
 
