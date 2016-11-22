@@ -1,4 +1,4 @@
-# Machine Learning Discrimination References
+# Machine Learning Ethics References
 References about Machine Learning and Data Science discrimination, bias, ethics.
 
 
