@@ -29,3 +29,8 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * [Are Machines Biased, or Are We Biased Against Machines?](http://alex.miller.im/posts/are-we-biased-against-machines-propublica-recidivism/)
 * [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
+
+##Others
+
+* ["RoboCop” assignment Columbia University NYPD’s “Stop, Question and Frisk” records](http://columbialion.com/colorcode-statement-on-coms-4771-stop-and-frisk-competition/)
+* [Professor Satyen Kale Responds to ‘RoboCop’ Machine Learning Assignment](http://columbialion.com/professor-satyen-kale-responds-to-robocop-ml-assignment/)
