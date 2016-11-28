@@ -38,8 +38,11 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Are Machines Biased, or Are We Biased Against Machines?](http://alex.miller.im/posts/are-we-biased-against-machines-propublica-recidivism/)
 * [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
 * [Buyer Beware: A hard look at police ‘threat scores.’](https://www.equalfuture.us/2016/01/14/buyer-beware-police-threat-scores/)
+* [Computer and Information Ethics](http://plato.stanford.edu/entries/ethics-computer/)
+* [Social Networking and Ethics](http://plato.stanford.edu/entries/ethics-social-networking/)
+* [Internet Research Ethics](http://plato.stanford.edu/entries/ethics-internet-research/)
+* [Search Engines and Ethics](http://plato.stanford.edu/entries/ethics-search/)
 
 ##Others
-
 * ["RoboCop” assignment Columbia University NYPD’s “Stop, Question and Frisk” records](http://columbialion.com/colorcode-statement-on-coms-4771-stop-and-frisk-competition/)
 * [Professor Satyen Kale Responds to ‘RoboCop’ Machine Learning Assignment](http://columbialion.com/professor-satyen-kale-responds-to-robocop-ml-assignment/)
