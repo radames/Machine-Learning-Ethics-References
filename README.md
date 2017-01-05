@@ -44,6 +44,7 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Social Networking and Ethics](http://plato.stanford.edu/entries/ethics-social-networking/)
 * [Internet Research Ethics](http://plato.stanford.edu/entries/ethics-internet-research/)
 * [Search Engines and Ethics](http://plato.stanford.edu/entries/ethics-search/)
+* [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/)
 
 ## Others
 
