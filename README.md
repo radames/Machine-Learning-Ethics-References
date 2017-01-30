@@ -32,6 +32,9 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=sr_1_1?ie=UTF8&qid=1479818920&sr=8-1&keywords=Weapons-Math-Destruction-Increases-Inequality)
 
 ## Articles
+* [Algorithms: AI’s creepy control must be open to inspection](https://www.theguardian.com/commentisfree/2017/jan/01/algorithms-ai-artificial-intelligence-facebook-accountability)
+* [AI watchdog needed to regulate automated decision-making, say experts](https://www.theguardian.com/technology/2017/jan/27/ai-artificial-intelligence-watchdog-needed-to-prevent-discriminatory-automated-decisions)
+* [Scholars Delve Deeper Into The Ethics Of Artificial Intelligence](http://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence)
 * [ProPublica series on Machine Bias](https://www.propublica.org/series/machine-bias)
 * [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
 * [Neural Net Trained on Mugshots Predicts Criminals](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/)
