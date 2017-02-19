@@ -51,7 +51,10 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/)
 
 ## Others
-
+* [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
+* [Morals and the machine](http://www.economist.com/node/21556234)
+* [Robotics: Ethics of artificial intelligence](http://www.nature.com/news/robotics-ethics-of-artificial-intelligence-1.17611)
+* [Do no harm, don't discriminate: official guidance issued on robot ethics](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute)
 * ["RoboCop” assignment Columbia University NYPD’s “Stop, Question and Frisk” records](http://columbialion.com/colorcode-statement-on-coms-4771-stop-and-frisk-competition/)
 * [Professor Satyen Kale Responds to ‘RoboCop’ Machine Learning Assignment](http://columbialion.com/professor-satyen-kale-responds-to-robocop-ml-assignment/)
 * [White House document: Preparing for the Future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)
