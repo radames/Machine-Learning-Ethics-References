@@ -50,6 +50,8 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [Search Engines and Ethics](http://plato.stanford.edu/entries/ethics-search/)
 * [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/)
 * [Courts Are Using AI to Sentence Criminals. That Must Stop Now](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/)
+* [Sent to Prison by a Software Program’s Secret Algorithms](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
+
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
 * [Morals and the machine](http://www.economist.com/node/21556234)
