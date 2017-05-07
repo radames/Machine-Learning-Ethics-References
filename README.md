@@ -60,3 +60,4 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * ["RoboCop” assignment Columbia University NYPD’s “Stop, Question and Frisk” records](http://columbialion.com/colorcode-statement-on-coms-4771-stop-and-frisk-competition/)
 * [Professor Satyen Kale Responds to ‘RoboCop’ Machine Learning Assignment](http://columbialion.com/professor-satyen-kale-responds-to-robocop-ml-assignment/)
 * [White House document: Preparing for the Future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)
+* [Justice.exe - Educative Game](http://justiceexe.com/index.html)
