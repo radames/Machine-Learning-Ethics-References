@@ -4,10 +4,10 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 ## Discussion
 * [AI Ethics on Reddit](https://www.reddit.com/r/AIethics/)
-* [(HN)Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
-* [(HN)Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
+* [(HN) Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
+* [(HN) Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
 * [(HN) on Neural Net Trained on Mugshots Predicts Criminals](https://news.ycombinator.com/item?id=13034116)
-
+* [(HN) Justice.exe: Bias in Algorithmic sentencing ](https://news.ycombinator.com/item?id=14285116)
 ## Podcast
 
 * [EconTalk Episode with Cathy O'Neil](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html)
@@ -21,11 +21,10 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 * [Bias in Computer Systems](https://www.nyu.edu/projects/nissenbaum/papers/biasincomputers.pdf)
 * [Equality of Opportunity in Supervised Learning](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
-* [Using sensitive personal data may be necessary
-for avoiding discrimination in data-driven decision
-models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.pdf?attredirects=1)
+* [Using sensitive personal data may be necessary for avoiding discrimination in data-driven decision models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.pdf?attredirects=1)
 * [The Ethics of Artificial Intelligence](http://www.nickbostrom.com/ethics/artificial-intelligence.pdf)
 * [Automated Inference on Criminality using Face Images](https://arxiv.org/abs/1611.04135)
+* [Semantics derived automatically from language corpora contain human-like biases](http://opus.bath.ac.uk/55288/)
 
 ## Books
 
@@ -51,6 +50,7 @@ models](https://sites.google.com/site/zliobaitefiles2/Zliobaite_fair_regression.
 * [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/)
 * [Courts Are Using AI to Sentence Criminals. That Must Stop Now](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/)
 * [Sent to Prison by a Software Program’s Secret Algorithms](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
+* [Even artificial intelligence can acquire biases against race and gender](http://www.sciencemag.org/news/2017/04/even-artificial-intelligence-can-acquire-biases-against-race-and-gender)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
