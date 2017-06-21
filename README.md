@@ -61,3 +61,4 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Professor Satyen Kale Responds to ‘RoboCop’ Machine Learning Assignment](http://columbialion.com/professor-satyen-kale-responds-to-robocop-ml-assignment/)
 * [White House document: Preparing for the Future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)
 * [Justice.exe - Educative Game](http://justiceexe.com/index.html)
+* [mathwashing](http://www.mathwashing.com/)
