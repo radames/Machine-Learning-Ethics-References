@@ -25,6 +25,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [The Ethics of Artificial Intelligence](http://www.nickbostrom.com/ethics/artificial-intelligence.pdf)
 * [Automated Inference on Criminality using Face Images](https://arxiv.org/abs/1611.04135)
 * [Semantics derived automatically from language corpora contain human-like biases](http://opus.bath.ac.uk/55288/)
+* [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813)
 
 ## Books
 
