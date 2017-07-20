@@ -16,7 +16,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 * [Ethics of Artificial Intelligence conference NYU 2016](https://livestream.com/nyu-tv/ethicsofAI/)
 * [A Story of Discrimination and Unfairness - Aylin Caliskan 33c3 2016](https://media.ccc.de/v/33c3-8026-a_story_of_discrimination_and_unfairness)
-
+* [AI Now 2017 Symposium](https://www.youtube.com/watch?v=npL_UsK_npE)
 ## Papers 
 
 * [Bias in Computer Systems](https://www.nyu.edu/projects/nissenbaum/papers/biasincomputers.pdf)
@@ -76,5 +76,6 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Kate Crawford](http://www.katecrawford.net/)
 * [Meredith Whittaker](https://twitter.com/mer__edith)
 * [Kate Darling](https://twitter.com/grok_)
+* [Cathy O'Neil](https://mathbabe.org/)
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
