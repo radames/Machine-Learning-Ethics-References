@@ -41,6 +41,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 * [The Ethical Data Scientis](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html)
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+* [Machine Bias - How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+* [ProPublica Responds to Company’s Critique of Machine Bias Story](https://www.propublica.org/article/propublica-responds-to-companys-critique-of-machine-bias-story)
 * [Are Machines Biased, or Are We Biased Against Machines?](http://alex.miller.im/posts/are-we-biased-against-machines-propublica-recidivism/)
 * [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
 * [Buyer Beware: A hard look at police ‘threat scores.’](https://www.equalfuture.us/2016/01/14/buyer-beware-police-threat-scores/)
@@ -52,7 +54,9 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Courts Are Using AI to Sentence Criminals. That Must Stop Now](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/)
 * [Sent to Prison by a Software Program’s Secret Algorithms](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
 * [Even artificial intelligence can acquire biases against race and gender](http://www.sciencemag.org/news/2017/04/even-artificial-intelligence-can-acquire-biases-against-race-and-gender)
+* [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/)
 * [If you’re not a white male, artificial intelligence’s use in healthcare could be dangerous](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/)
+* [Biased Algorithms Are Everywhere, and No One Seems to Care](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
@@ -65,3 +69,11 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Justice.exe - Educative Game](http://justiceexe.com/index.html)
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
+
+
+## People and Organizations
+
+* [Kate Crawford](http://www.katecrawford.net/)
+* [Meredith Whittaker](https://twitter.com/mer__edith)
+* [AI Now](https://artificialintelligencenow.com/)
+* [Algorithm Watch](https://algorithmwatch.org)
