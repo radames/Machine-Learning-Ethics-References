@@ -8,15 +8,18 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [(HN) Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
 * [(HN) on Neural Net Trained on Mugshots Predicts Criminals](https://news.ycombinator.com/item?id=13034116)
 * [(HN) Justice.exe: Bias in Algorithmic sentencing ](https://news.ycombinator.com/item?id=14285116)
+
 ## Podcast
 
 * [EconTalk Episode with Cathy O'Neil](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html)
+* [Machine Ethic Podcasts](http://machine-ethics.net/podcast/)
 
 ## Videos
 
 * [Ethics of Artificial Intelligence conference NYU 2016](https://livestream.com/nyu-tv/ethicsofAI/)
 * [A Story of Discrimination and Unfairness - Aylin Caliskan 33c3 2016](https://media.ccc.de/v/33c3-8026-a_story_of_discrimination_and_unfairness)
 * [AI Now 2017 Symposium](https://www.youtube.com/watch?v=npL_UsK_npE)
+
 ## Papers 
 
 * [Bias in Computer Systems](https://www.nyu.edu/projects/nissenbaum/papers/biasincomputers.pdf)
@@ -77,5 +80,6 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Meredith Whittaker](https://twitter.com/mer__edith)
 * [Kate Darling](https://twitter.com/grok_)
 * [Cathy O'Neil](https://mathbabe.org/)
+* [Alan Winfield](https://alanwinfield.blogspot.com/)
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
