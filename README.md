@@ -75,5 +75,6 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 * [Kate Crawford](http://www.katecrawford.net/)
 * [Meredith Whittaker](https://twitter.com/mer__edith)
+* [Kate Darling](https://twitter.com/grok_)
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
