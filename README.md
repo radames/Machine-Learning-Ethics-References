@@ -73,6 +73,16 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
 
+## Conferences, Workshops, Symposiums 
+
+* [Workshop on Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
+* [AI Now](https://artificialintelligencenow.com/schedule/2017-symposium)
+* [Ethics of Artificial Intelligence](https://wp.nyu.edu/consciousness/ethics-of-artificial-intelligence/)
+
+## Classes
+
+* [Fairness in Machine Learning](https://fairmlclass.github.io/)
+
 
 ## People and Organizations
 
@@ -83,3 +93,4 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Alan Winfield](https://alanwinfield.blogspot.com/)
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
+* [Moritz Hardt](http://moritzhardt.com/)
