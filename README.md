@@ -29,6 +29,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Automated Inference on Criminality using Face Images](https://arxiv.org/abs/1611.04135)
 * [Semantics derived automatically from language corpora contain human-like biases](http://opus.bath.ac.uk/55288/)
 * [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813)
+* [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://homes.cs.washington.edu/~my89/publications/bias.pdf)
+* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 
 ## Books
 
@@ -60,6 +62,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/)
 * [If you’re not a white male, artificial intelligence’s use in healthcare could be dangerous](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/)
 * [Biased Algorithms Are Everywhere, and No One Seems to Care](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/)
+* [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist)
+* [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
@@ -72,6 +76,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Justice.exe - Educative Game](http://justiceexe.com/index.html)
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
+
 
 ## Conferences, Workshops, Symposiums 
 
