@@ -64,6 +64,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Biased Algorithms Are Everywhere, and No One Seems to Care](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/)
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist)
 * [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
+* [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](https://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
@@ -77,6 +78,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
 
+## Reports
+* [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
 
 ## Conferences, Workshops, Symposiums 
 
@@ -99,3 +102,5 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
 * [Moritz Hardt](http://moritzhardt.com/)
+* [Institute for Ethics and Emerging Technologies](https://ieet.org/)
+
