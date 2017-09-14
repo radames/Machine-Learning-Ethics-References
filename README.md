@@ -31,6 +31,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [European Union regulations on algorithmic decision-making and a "right to explanation"](https://arxiv.org/abs/1606.08813)
 * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://homes.cs.washington.edu/~my89/publications/bias.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+* [Deep neural networks are more accurate than humans at detecting sexual orientation from facial images.](https://osf.io/zn79k/)
 
 ## Books
 
@@ -65,6 +66,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist)
 * [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 * [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](https://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html)
+* [New AI can guess whether you're gay or straight from a photograph](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
