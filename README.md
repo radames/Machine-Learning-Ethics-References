@@ -88,11 +88,12 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Workshop on Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
 * [AI Now](https://artificialintelligencenow.com/schedule/2017-symposium)
 * [Ethics of Artificial Intelligence](https://wp.nyu.edu/consciousness/ethics-of-artificial-intelligence/)
+* [Black in AI](http://ai.stanford.edu/~tgebru/blackAI)
 
 ## Classes
 
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
-
+* [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 
 ## People and Organizations
 
@@ -104,5 +105,6 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [AI Now](https://artificialintelligencenow.com/)
 * [Algorithm Watch](https://algorithmwatch.org)
 * [Moritz Hardt](http://moritzhardt.com/)
+* [Solon Barocas](http://solon.barocas.org/)
 * [Institute for Ethics and Emerging Technologies](https://ieet.org/)
 
