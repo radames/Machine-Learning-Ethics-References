@@ -89,6 +89,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [AI Now](https://artificialintelligencenow.com/schedule/2017-symposium)
 * [Ethics of Artificial Intelligence](https://wp.nyu.edu/consciousness/ethics-of-artificial-intelligence/)
 * [Black in AI](http://ai.stanford.edu/~tgebru/blackAI)
+* [Algorithms and Explanations](http://www.law.nyu.edu/centers/ili/events/algorithms-and-explanations)
+* [Machine Learning and the Law](http://www.mlandthelaw.org/)
 
 ## Classes
 
