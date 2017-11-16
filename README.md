@@ -3,6 +3,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 
 ## Discussion
+* [Cathy O’Neil Twitter Discussion 'Algorithms are a threat to society and so far, academia is asleep at the wheel.'](https://twitter.com/mathbabedotorg/status/930429461165760512)
+## Discussion
 * [AI Ethics on Reddit](https://www.reddit.com/r/AIethics/)
 * [(HN) Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
 * [(HN) Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
@@ -109,4 +111,5 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Moritz Hardt](http://moritzhardt.com/)
 * [Solon Barocas](http://solon.barocas.org/)
 * [Institute for Ethics and Emerging Technologies](https://ieet.org/)
-
+* [The Center for Technology, Society & Policy Berkley](https://twitter.com/CTSPBerkeley)
+* [Zeynep Tufekci](https://twitter.com/zeynep)
