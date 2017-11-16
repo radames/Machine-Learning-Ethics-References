@@ -69,6 +69,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Machines Taught by Photos Learn a Sexist View of Women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 * [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](https://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html)
 * [New AI can guess whether you're gay or straight from a photograph](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)
+* [Something is wrong on the internet, on youtube automated videos by James Bridle](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
