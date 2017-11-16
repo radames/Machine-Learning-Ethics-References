@@ -82,6 +82,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Justice.exe - Educative Game](http://justiceexe.com/index.html)
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
+* [Research on Algorithmic Fairness, haverford](http://fairness.haverford.edu/)
 
 ## Reports
 * [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
@@ -114,3 +115,4 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Institute for Ethics and Emerging Technologies](https://ieet.org/)
 * [The Center for Technology, Society & Policy Berkley](https://twitter.com/CTSPBerkeley)
 * [Zeynep Tufekci](https://twitter.com/zeynep)
+* [Data & Society](https://datasociety.net/about/)
