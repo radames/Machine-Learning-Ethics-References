@@ -116,3 +116,5 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [The Center for Technology, Society & Policy Berkley](https://twitter.com/CTSPBerkeley)
 * [Zeynep Tufekci](https://twitter.com/zeynep)
 * [Data & Society](https://datasociety.net/about/)
+* [PERVADE: Pervasive Data Ethics](https://pervade.umd.edu/)
+* [DataEthics](https://dataethics.eu/en/)
