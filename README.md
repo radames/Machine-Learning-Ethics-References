@@ -36,6 +36,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 * [Deep neural networks are more accurate than humans at detecting sexual orientation from facial images.](https://osf.io/zn79k/)
 * [Delayed Impact of Fair Machine Learning](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
+* [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
 
 ## Books
 
@@ -73,8 +74,9 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [New AI can guess whether you're gay or straight from a photograph](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)
 * [Something is wrong on the internet, on youtube automated videos by James Bridle](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * [Trump’s “extreme-vetting” software will discriminate against immigrants “under a veneer of objectivity,” say experts](https://theintercept.com/2017/11/16/trumps-extreme-vetting-software-will-discriminate-against-immigrants-under-a-veneer-of-objectivity-say-experts/)
+* [ACLU calls out Amazon, Washington Co. sheriff's office for facial recognition tech](https://www.kgw.com/article/money/aclu-calls-out-amazon-washington-co-sheriffs-office-for-facial-recognition-tech/283-557099068)
 * [This startup’s racial-profiling algorithm shows AI can be dangerous way before any robot apocalypse](https://qz.com/1286533/a-startup-selling-racial-profiling-software-shows-how-ai-can-be-dangerous-way-before-any-robot-apocalypse/)
-* [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
+* [Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
