@@ -1,9 +1,9 @@
 # Machine Learning Ethics References
 References about Machine Learning and Data Science discrimination, bias, ethics.
 
-
 ## Discussion
 * [Cathy O’Neil Twitter Discussion 'Algorithms are a threat to society and so far, academia is asleep at the wheel.'](https://twitter.com/mathbabedotorg/status/930429461165760512)
+
 ## Discussion
 * [AI Ethics on Reddit](https://www.reddit.com/r/AIethics/)
 * [(HN) Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
@@ -21,6 +21,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Ethics of Artificial Intelligence conference NYU 2016](https://livestream.com/nyu-tv/ethicsofAI/)
 * [A Story of Discrimination and Unfairness - Aylin Caliskan 33c3 2016](https://media.ccc.de/v/33c3-8026-a_story_of_discrimination_and_unfairness)
 * [AI Now 2017 Symposium](https://www.youtube.com/watch?v=npL_UsK_npE)
+* [The Trouble with Bias - NIPS 2017 Keynote](https://www.youtube.com/watch?v=fMym_BKWQzk)
 
 ## Papers 
 
@@ -34,6 +35,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://homes.cs.washington.edu/~my89/publications/bias.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 * [Deep neural networks are more accurate than humans at detecting sexual orientation from facial images.](https://osf.io/zn79k/)
+* [Delayed Impact of Fair Machine Learning](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 
 ## Books
 
@@ -71,6 +73,9 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [New AI can guess whether you're gay or straight from a photograph](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)
 * [Something is wrong on the internet, on youtube automated videos by James Bridle](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * [Trump’s “extreme-vetting” software will discriminate against immigrants “under a veneer of objectivity,” say experts](https://theintercept.com/2017/11/16/trumps-extreme-vetting-software-will-discriminate-against-immigrants-under-a-veneer-of-objectivity-say-experts/)
+* [This startup’s racial-profiling algorithm shows AI can be dangerous way before any robot apocalypse](https://qz.com/1286533/a-startup-selling-racial-profiling-software-shows-how-ai-can-be-dangerous-way-before-any-robot-apocalypse/)
+* [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
+
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
 * [Morals and the machine](http://www.economist.com/node/21556234)
@@ -83,6 +88,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [mathwashing](http://www.mathwashing.com/)
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
 * [Research on Algorithmic Fairness, haverford](http://fairness.haverford.edu/)
+* [NORMAN World's first psychopath AI](http://norman-ai.mit.edu/)
 
 ## Reports
 * [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
