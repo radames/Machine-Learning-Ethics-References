@@ -41,6 +41,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 ## Books
 
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=sr_1_1?ie=UTF8&qid=1479818920&sr=8-1&keywords=Weapons-Math-Destruction-Increases-Inequality)
+* [Interpretable Machine Learning A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
+* [Fairness and machine learning book](http://fairmlbook.org/)
 
 ## Articles
 * [Algorithms: AI’s creepy control must be open to inspection](https://www.theguardian.com/commentisfree/2017/jan/01/algorithms-ai-artificial-intelligence-facebook-accountability)
@@ -110,10 +112,13 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [CS109: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
+* [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* 
 
 ## Lists 
 
 * [A critical reading list for engineers, designers, and policy makers](https://github.com/rockita/criticalML)
+* [Awesome-Machine-Learning-Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ## People and Organizations
 
