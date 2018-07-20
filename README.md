@@ -93,6 +93,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
 * [Research on Algorithmic Fairness, haverford](http://fairness.haverford.edu/)
 * [NORMAN World's first psychopath AI](http://norman-ai.mit.edu/)
+* [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 
 ## Reports
 * [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
