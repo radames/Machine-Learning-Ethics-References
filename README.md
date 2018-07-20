@@ -37,7 +37,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Deep neural networks are more accurate than humans at detecting sexual orientation from facial images.](https://osf.io/zn79k/)
 * [Delayed Impact of Fair Machine Learning](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
-
+* [ No Classification without Representation: Assessing Geodiversity Issues in Open Data Sets for the Developing World](https://arxiv.org/abs/1711.08536)
 ## Books
 
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=sr_1_1?ie=UTF8&qid=1479818920&sr=8-1&keywords=Weapons-Math-Destruction-Increases-Inequality)
