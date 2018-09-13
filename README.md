@@ -22,6 +22,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [A Story of Discrimination and Unfairness - Aylin Caliskan 33c3 2016](https://media.ccc.de/v/33c3-8026-a_story_of_discrimination_and_unfairness)
 * [AI Now 2017 Symposium](https://www.youtube.com/watch?v=npL_UsK_npE)
 * [The Trouble with Bias - NIPS 2017 Keynote](https://www.youtube.com/watch?v=fMym_BKWQzk)
+* [Eyeo 2018 - Meredith Whittaker - DATA GENESIS: AI'S PRIMORDIAL SOUP](https://vimeo.com/287094149)
 
 ## Papers 
 
@@ -79,6 +80,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [ACLU calls out Amazon, Washington Co. sheriff's office for facial recognition tech](https://www.kgw.com/article/money/aclu-calls-out-amazon-washington-co-sheriffs-office-for-facial-recognition-tech/283-557099068)
 * [This startup’s racial-profiling algorithm shows AI can be dangerous way before any robot apocalypse](https://qz.com/1286533/a-startup-selling-racial-profiling-software-shows-how-ai-can-be-dangerous-way-before-any-robot-apocalypse/)
 * [Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)
+* [Prescription: AI - Quartz series](https://qz.com/se/prescription-ai/)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
