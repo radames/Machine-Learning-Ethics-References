@@ -123,7 +123,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 
 * [A critical reading list for engineers, designers, and policy makers](https://github.com/rockita/criticalML)
 * [Awesome-Machine-Learning-Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-
+* [Fast AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/)
 ## People and Organizations
 
 * [Kate Crawford](http://www.katecrawford.net/)
