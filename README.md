@@ -23,6 +23,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [AI Now 2017 Symposium](https://www.youtube.com/watch?v=npL_UsK_npE)
 * [The Trouble with Bias - NIPS 2017 Keynote](https://www.youtube.com/watch?v=fMym_BKWQzk)
 * [Eyeo 2018 - Meredith Whittaker - DATA GENESIS: AI'S PRIMORDIAL SOUP](https://vimeo.com/287094149)
+* ["Privacy: the Last Stand for Fair Algorithms" by Katharine Jarmul](https://www.youtube.com/watch?v=j4WRv6GNuDM)
 
 ## Papers 
 
