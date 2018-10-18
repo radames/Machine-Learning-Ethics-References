@@ -118,7 +118,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [CS109: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
-* 
+* [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 
 ## Lists 
 
