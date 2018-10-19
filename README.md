@@ -83,6 +83,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)
 * [Prescription: AI - Quartz series](https://qz.com/se/prescription-ai/)
 * [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
+* [A skeptic’s guide to thinking about AI -  on AI Now 2018](https://www.fastcompany.com/90252753/a-skeptics-guide-to-thinking-about-ai)
 
 ## Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
