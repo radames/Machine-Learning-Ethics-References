@@ -103,6 +103,8 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 ## Reports
 * [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
 * [AI Now Report 2018.pdf](https://ainowinstitute.org/AI_Now_2018_Report.pdf)
+* [AI Now 2019 Discriminating Systems: Gender, Race, and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
+
 ## Conferences, Workshops, Symposiums 
 
 * [Workshop on Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
