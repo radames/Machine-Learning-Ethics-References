@@ -115,6 +115,7 @@ References about Machine Learning and Data Science discrimination, bias, ethics.
 * [Machine Learning and the Law](http://www.mlandthelaw.org/)
 * [Ethics in Mathematics - Cambridge University](http://www.ethics.maths.cam.ac.uk/EiM1/)
 * [AI Now 2018 Symposium - video](https://www.youtube.com/watch?v=NmdAtfcmTNg)
+* [AI Now 2019 Symposium - video](https://ainowinstitute.org/symposia/2019-symposium.html)
 
 ## Classes
 
